@@ -1,0 +1,13 @@
+20230927	17:21:53	bf5d5a11-34ac-4cec-974c-ae850fda35bb	Error: Not allowed by CORS
+20230927	17:22:13	36970da9-f1c0-47dc-bba5-331b49400303	Error: Not allowed by CORS
+20230927	17:32:08	3566bb23-b730-4ccd-800d-904bc74154e9	Error: Not allowed by CORS
+20230927	17:32:22	b26484f6-cd81-409d-afc9-5c57eda14738	Error: Not allowed by CORS
+20230927	17:34:18	41ed32cd-8af5-4053-baae-3e72fdb9f965	Error: Not allowed by CORS
+20230927	17:34:33	5a2a0e83-cbec-49e4-967f-08ef0dd38099	Error: Not allowed by CORS
+20231005	12:34:33	9de775b1-4252-4446-bf9a-ff0caa69f5bb	TypeError: allowedOrigins.includes is not a function
+20231005	12:34:44	e7841615-ae8e-43c3-9c9e-5b3be3ac88b2	TypeError: allowedOrigins.includes is not a function
+20231006	12:06:24	1de914ca-8a23-4072-92bf-f624540479e0	ReferenceError: username is not defined
+20231006	12:06:24	673ee054-074f-485b-bec1-a0a065b9820f	ReferenceError: username is not defined
+20231006	12:08:33	caf06cd5-6272-4069-88df-c736cfdfd10b	ReferenceError: username is not defined
+20231006	12:08:36	b5cc7ead-e6ee-4adf-b283-0c7fa6a1a39c	ReferenceError: username is not defined
+20231006	12:08:36	011ee298-1278-4be2-a1b5-6eeec743e6d4	ReferenceError: username is not defined
